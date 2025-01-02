@@ -1,2 +1,6 @@
 # CSST101-CSST102 Final Project
 <h1> Evangelista | Plata | Sofer</h1>
+<title>ChefBot</title>
+<p>Chefbot is a chatbot specifically for food recommendation. ChefBot aims to help the users to explore more about their food whether they are craving something, looking for something new, browsing alternatives or identifying what can they cook with the ingredients that they have. The goals of this Cheft bot are (1) Recommend food based on inputs(e.g Spicy, Budget-friendly, low calorie) (2) Identify different recipe based on available ingredients (3) Specify how to cook the available recipe (4) Suggest what to cook.
+
+The dataset for ChefBot is sourced from https://www.themealdb.com/, https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions, and other data sources to be followed where data containing thousands of recipes are categorized to be use for chatbot. Several Variables will be used: (1)Available Ingredients - to recommend recipes based on the given ingedients: List of food items such as chicken, rice, etc..(2)Cooking Skills: Beginner, Cook level, or chef level. and (3)  Meal Types: breakfast, lunch, or dinner. The Attributes of ChefBot includes: (1) Recipe Name (2)Ingredients List (3)Cooking Instructions (4)Nutritional Information and (5)Serving suggestions.</p>
